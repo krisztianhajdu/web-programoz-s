@@ -1,0 +1,23 @@
+VS Code ismeret, billentyűparancsok gyors használathoz
+HTML szerkezeti alapok (!DocType, html, head, main, body, meta, p, title, h1-h16, img, a, link, strong, em, rem, figure, figcaption, div, span)
+HTML Tag-ek: href, target, src, alt, lang, charset, style, section, article, aside, footer, header, (https://www.w3schools.com/tags/default.asp)
+HTML listák: (ul, ol, li)
+HTML táblázat: (table, tr, td, th, caption)
+HTML box modell (content-box, border-box)
+HTML display (inline, block, inline-block, none)
+HTML position (relative, fixed, absolute)
+HTML z-index tulajdonság
+HTML clearfix technika
+CSS: alapok, leírók és szabályok szintaxisa
+CSS: stílus definiálás, és alkalmazás (inline, internal, external CSS) 
+CSS: CSS3 szelektorok (univerzális, elem, azonosító, osztály, spec. szelektorok)
+CSS: CSS3 jellemzők (color, opacity, box-shadow, box-sizing, overflow, displaxy, float, z-index, rel, top, bottom, left, right, position, 
+line-height, text-align, vertical-align, textjustify, 
+texttransform, font, font-family, font-size, font-style, text-decoration, cursor, letter-spacing, 
+(width, background,border, margin, padding, height (több típus))
+CSS: CSS függvények: url(), rgb(), rgba(), hsl(), hsla(), calc()
+reszponzív oldalak: (mobile first elv, progressive enhancement)
+R. Ol.: médialekérdezések, törési pontok, viewport
+R. Ol.: mértékegységek (em, rem, százalék, vw, vh)
+R. Ol: Bootstrap alapok (konténer, gridek, gridek egymásba ágyazása, formázások, jumbotron, panelek)
+Javascript: beágyazás, "Hello World" alert fgv, JavaScript csatolása (4 óra)
